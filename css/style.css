@@ -187,21 +187,3 @@ p{
 @media (min-width:600px)  { 
     /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
 }
-
-    .forecast-section {
-        display: block;
-        width: 100%;
-    }
-    .forecast-card{
-        width: 100%;
-        
-    }
-
-    .side-nav {
-        width: 100%;
-    }
- }
-
-@media (min-width:600px)  { 
-    /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
-}
